@@ -1,0 +1,7 @@
+# Speech-Recognition-
+This is a simple python Speech Recognition project.
+Need to install -->
+open command prompt and type...(Need internet connection)
+pip install SpeechRecognition
+pip install gtts
+pip install googlesearch
